@@ -1,2 +1,5 @@
-# uwa-2014-cits2014-2
-This is the Matlab solution to the second question of the second Assignment for CITS2401
+# Springs and Mass Variation
+
+This is my Matlab solution to the second question of the first Assignment of CITS2401.
+
+The description of the problem is the PDF file located at the root of this repository.
